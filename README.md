@@ -21,8 +21,9 @@
     <img src="https://img.shields.io/static/v1?message=Mi%20blog%20de%20Ciberseguridad&logo=Github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
 </div>
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=cybermemillo&theme=dark&border_radius=4&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
+</div>
 ###
 
 <h1 align="center">🛡️ Cybermemo</h1>
