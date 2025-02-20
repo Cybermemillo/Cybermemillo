@@ -21,6 +21,9 @@
     <img src="https://img.shields.io/static/v1?message=Mi%20blog%20de%20Ciberseguridad&logo=Github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Cybermemillo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+</div>
 
 ###
 
